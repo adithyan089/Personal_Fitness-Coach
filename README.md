@@ -6,7 +6,7 @@
 ### ⟫ BMI Calculation: Calculate Body Mass Index (BMI) and receive feedback on your weight category (Underweight, Normal weight, Overweight, Obese).
 ### ⟫ Body Fat Percentage: Compute body fat percentage using waist circumference and gender-specific formulas.
 ### ⟫ Calorie Goal Calculation: Determine daily calorie needs based on activity level and fitness goals.
-### ⟫ Diet and Workout Plans: Generate customized diet and workout plans based on BMI and fitness goals.
+### ⟫ Diet and Workout Plans: Generate customized diet and workout plans based on BMI and fitness goals(you can use a proper plans).
 ### ⟫ Data Persistence: Save and load user data to and from files.
 ### ⟫ Reset Functionality: Clear all input fields with a single click.
 ## Technologies Used :◑﹏◐
